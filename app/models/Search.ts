@@ -1,5 +1,6 @@
 import mongoose, { model, models } from "mongoose";
 
+
 const SearchSchema = new mongoose.Schema(
   {
     query: {
